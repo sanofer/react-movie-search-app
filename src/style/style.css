@@ -34,6 +34,7 @@ small{
 
 .form{
     display:grid;
+    margin-bottom:10px;
 }
 .label {
     font-size: 1.6rem;
@@ -71,4 +72,12 @@ small{
     .input {
         margin-bottom: 0;
     }
+}
+
+.card{
+    padding: 2rem 4rem;
+    border-radius:10px;
+    box-shadow: 1px 1px 5px; 
+    margin-bottom: 2rem;
+    background-color: white;
 }
